@@ -13,12 +13,12 @@ File: Layout CSS
 
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
-.row0, .row0 a{}
+/* .row0, .row0 a{}
 .row1, .row1 a{}
 .row2{border-bottom:1px solid;}
 .row3, .row3 a{}
 .row4, .row4 a{}
-.row5, .row5 a{}
+.row5, .row5 a{} */
 
 
 /* Top Bar
@@ -59,9 +59,9 @@ File: Layout CSS
 .container{padding:80px 0;}
 
 /* Content */
-.container .content{}
+/* .container .content{} */
 
-.latest{}
+/* .latest{} */
 .latest > li:last-child{margin-bottom:0;}/* Used when elements stack in small viewports */
 .latest article{display:block; width:100%; max-width:320px;}
 .latest figcaption{display:block; padding:5px 10px; font-size:.8rem;}
@@ -97,7 +97,7 @@ File: Layout CSS
 #comments input[type="submit"], #comments input[type="reset"]{display:inline-block; width:auto; min-width:150px; margin:0; padding:8px 5px; cursor:pointer;}
 
 /* Sidebar */
-.container .sidebar{}
+/* .container .sidebar{} */
 
 .sidebar .sdb_holder{margin-bottom:50px;}
 .sidebar .sdb_holder:last-child{margin-bottom:0;}
@@ -116,7 +116,7 @@ File: Layout CSS
 #footer .linklist li::before, #footer .linklist li::after{display:table; content:"";}
 #footer .linklist li, #footer .linklist li::after{clear:both;}
 
-#footer .contact{}
+/* #footer .contact{} */
 #footer .contact.linklist li, #footer .contact.linklist li:last-child{position:relative; padding-left:40px;}
 #footer .contact li *{margin:0; padding:0; line-height:1.6;}
 #footer .contact li i{display:block; position:absolute; top:0; left:0; width:30px; font-size:16px; text-align:center;}
@@ -149,7 +149,7 @@ nav ul, nav ol{margin:0; padding:0; list-style:none;}
 #mainav .drop::after, #mainav li li .drop::after, #breadcrumb li a::after, .sidebar nav a::after{position:absolute; font-family:"FontAwesome"; font-size:10px; line-height:10px;}
 
 /* Top Navigation */
-#mainav{}
+/* #mainav{} */
 #mainav ul{text-transform:uppercase;}
 #mainav ul ul{z-index:9999; position:absolute; width:180px; text-transform:none;}
 #mainav ul ul ul{left:180px; top:0;}
