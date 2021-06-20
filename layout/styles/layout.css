@@ -250,7 +250,7 @@ blockquote::before{color:rgba(0,0,0,.05);}
 .row3{color:#474747; background-color:#FFFFFF;}
 .row4{color:#CBCBCB; background-color:#333333;}
 .row5, .row5 a{color:#676767; background-color:#222222;}
-
+.Git, .Linked{font-size: 13px; justify-content: center;}
 
 /* Top Bar */
 #topbar ul li{border-color:rgba(255,255,255,.2);}
