@@ -14,9 +14,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 No installations! Just click the link to the GitHub Page
 ## Usage
 Browse my portfolio to your hearts content! There are links to my LinkedIn and my GitHub profile. My phone number, email and resume are also provided!
-    ```md
-    ![alt text](images/demo/backgrounds/portfoliodemo)
-    ```
+   
+![alt text](images/demo/backgrounds/portfoliodemo)
+   
 ## Credits
 Intellectual Property Rights (IPR) belong to and stay with OS Templates and the their owner(s).
 
