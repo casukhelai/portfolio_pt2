@@ -15,7 +15,7 @@ No installations! Just click the link to the GitHub Page
 ## Usage
 Browse my portfolio to your hearts content! There are links to my LinkedIn and my GitHub profile. My phone number, email and resume are also provided!
    
-![alt text](images/backgrounds/portfoliodemo)
+![portfolio_demo](images/backgrounds/portfoliodemo.gif)
 If screenshot is not working, click this links: https://drive.google.com/file/d/1tmyVcrKUVqjyPMRCPeUHXPCRpEE4Cwpa/view?usp=sharing
 
 - [Github Repo](https://github.com/casukhelai/portfolio_pt2)
