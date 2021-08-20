@@ -3,8 +3,8 @@
 ## Description
 This project is my updated portfolio. I have reached week 9 in the Full-Stack Developer course and I have a few projects to show off to a possible employer at this point! It organizes my work, my skills, and abilities, with links to my LinkedIn profile, GitHub profile, and has my resume! My motivation was to use a template just to save time and help bolster the visuals for my best projects. By using the template I've seen how someone else would construct a website like this and has made some previous confusions surrounding CSS a little clearer.
 
-## Table of Contents (Optional)
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -15,7 +15,12 @@ No installations! Just click the link to the GitHub Page
 ## Usage
 Browse my portfolio to your hearts content! There are links to my LinkedIn and my GitHub profile. My phone number, email and resume are also provided!
    
-![alt text](images/demo/backgrounds/portfoliodemo)
+![portfolio_demo](images/demo/backgrounds/portfoliodemo.gif)
+
+-If screenshot is not working, click this links: https://drive.google.com/file/d/1tmyVcrKUVqjyPMRCPeUHXPCRpEE4Cwpa/view?usp=sharing
+
+- [Github Repo](https://github.com/casukhelai/portfolio_pt2)
+- [Deployed Webpage](https://casukhelai.github.io/portfolio_pt2/)
    
 ## Credits
 Intellectual Property Rights (IPR) belong to and stay with OS Templates and the their owner(s).
