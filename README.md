@@ -3,8 +3,8 @@
 ## Description
 This project is my updated portfolio. I have reached week 9 in the Full-Stack Developer course and I have a few projects to show off to a possible employer at this point! It organizes my work, my skills, and abilities, with links to my LinkedIn profile, GitHub profile, and has my resume! My motivation was to use a template just to save time and help bolster the visuals for my best projects. By using the template I've seen how someone else would construct a website like this and has made some previous confusions surrounding CSS a little clearer.
 
-## Table of Contents (Optional)
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
