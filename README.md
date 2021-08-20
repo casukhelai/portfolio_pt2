@@ -21,7 +21,7 @@ Browse my portfolio to your hearts content! There are links to my LinkedIn and m
 -If screenshot is not working, click this links: https://drive.google.com/file/d/1tmyVcrKUVqjyPMRCPeUHXPCRpEE4Cwpa/view?usp=sharing
 
 - [Github Repo](https://github.com/casukhelai/professional_portfolio)
-- [Deployed Webpage](https://github.com/casukhelai/professional_portfolio)
+- [Deployed Webpage](https://casukhelai.github.io/professional_portfolio/)
    
 ## Credits
 Intellectual Property Rights (IPR) belong to and stay with OS Templates and the their owner(s).
