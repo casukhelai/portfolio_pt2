@@ -12,6 +12,7 @@ This project is my updated portfolio. I have reached week 9 in the Full-Stack De
 
 ## Installation
 No installations! Just click the link to the GitHub Page
+
 ## Usage
 Browse my portfolio to your hearts content! There are links to my LinkedIn and my GitHub profile. My phone number, email and resume are also provided!
    
@@ -19,8 +20,8 @@ Browse my portfolio to your hearts content! There are links to my LinkedIn and m
 
 -If screenshot is not working, click this links: https://drive.google.com/file/d/1tmyVcrKUVqjyPMRCPeUHXPCRpEE4Cwpa/view?usp=sharing
 
-- [Github Repo](https://github.com/casukhelai/portfolio_pt2)
-- [Deployed Webpage](https://casukhelai.github.io/portfolio_pt2/)
+- [Github Repo](https://github.com/casukhelai/professional_portfolio)
+- [Deployed Webpage](https://github.com/casukhelai/professional_portfolio)
    
 ## Credits
 Intellectual Property Rights (IPR) belong to and stay with OS Templates and the their owner(s).
